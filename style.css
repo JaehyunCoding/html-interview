@@ -1,0 +1,21 @@
+h1 {
+    font-style: oblique;
+}
+
+#JK {
+    font-style: normal;
+}
+
+.div {
+    padding: 25px;
+    border: solid blue;
+}
+
+.img {
+    border-radius: 50px;
+}
+
+.italic {
+    margin: 10px;
+    font-style: italic;
+}
